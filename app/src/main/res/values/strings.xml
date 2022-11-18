@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="title_main">ContentProvider</string>
+    <string name="btn_addContact">Ajouter un contact</string>
+    <string name="btn_listContact">Liste des contacts</string>
+    <string name="btn_addPerson">Ajouter une Personne</string>
+    <string name="btn_listPerson">Liste des Personnes</string>
+    <string name="Home">Accueil</string>
+</resources>
